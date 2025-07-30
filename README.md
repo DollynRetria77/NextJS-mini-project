@@ -1,2 +1,2 @@
-# NextJS-mini-project
+# nextjs-mini-projet
 NextJS, React, Redux
